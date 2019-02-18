@@ -16,10 +16,11 @@ Let’s have a look at a launched timebound state of each parent category projec
 
 A prominent number of projects launched from April to June got more success than November to December time. 
 Team concluded followings:
-*a.	Theater, music and film/video categories are most success as quantity counted. The visual graph of music category indicates the less failure rate in compare with other two categories.
 
-*b.	On the sub category analysis shows the most successful sub categories are plays, rock, documentary, hardware, indie rock, classical music, shorts, pop and nonfiction etc. The plays sub category has the greatest number of success as well as failure. The rock, documentary and hardware sub categories have got 100% success rate over the period.
+* a.	Theater, music and film/video categories are most success as quantity counted. The visual graph of music category indicates the less failure rate in compare with other two categories.
 
-*c.	 The third analysis shows the summer time dominate the success rate of project over winter time. The rock music arrangement at summer time is much easier and less expensive to organize.    
+* b.	On the sub category analysis shows the most successful sub categories are plays, rock, documentary, hardware, indie rock, classical music, shorts, pop and nonfiction etc. The plays sub category has the greatest number of success as well as failure. The rock, documentary and hardware sub categories have got 100% success rate over the period.
+
+* c.	 The third analysis shows the summer time dominate the success rate of project over winter time. The rock music arrangement at summer time is much easier and less expensive to organize.    
 
 Music is the most successful category.
