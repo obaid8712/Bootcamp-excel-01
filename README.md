@@ -12,7 +12,7 @@ Let’s go over the next figure by sub category.
 The plays sub-category project got the most success and most failure. Rock, television, tabletop games, hardware and documentary sub category projects all got full success without any failure, but their individual magnitude is not large. The video games and animation sub category project did not see any kind of success.
 
 Let’s have a look at a launched timebound state of each parent category project at various time of the year.
-https://github.com/obaid8712/Excel-Project-01/blob/master/launchedTimecategory.PNG
+![GitHub Logo](https://github.com/obaid8712/Excel-Project-01/blob/master/launchedTimecategory.PNG)
 
 A prominent number of projects launched from April to June got more success than November to December time. 
 Team concluded followings:
