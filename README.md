@@ -7,7 +7,7 @@
 The graphical figure shows the state of more than 4000 projects as per parent Category. The most and least successful project by category is visible on the picture. Similar way the most or least no of project has been canceled or failed and live by category. The theater category has most number of success and failure. All the project under journalism category are canceled and food category became the least successful among all categories.
 
 Let’s go over the next figure by sub category.
-![GitHub Logo](https://github.com/obaid8712/Excel-Project-01/blob/master/PngImage/subcategory.png)
+![GitHub Logo](https://github.com/obaid8712/Excel-Project-01/blob/master/PngImage/subcategory.PNG)
 
 The plays sub-category project got the most success and most failure. Rock, television, tabletop games, hardware and documentary sub category projects all got full success without any failure, but their individual magnitude is not large. The video games and animation sub category project did not see any kind of success.
 
